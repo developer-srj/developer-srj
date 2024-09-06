@@ -27,8 +27,9 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 - **ESP**: Wi-Fi for IoT, because why not make everything a bit smarter 🤓?
 - **Linux**: The hacker vibe 💻 without the black hoodie.
 - **MySQL**: The database I can rely on 🗄️, even if my queries sometimes cause a few tears 😢.
-- **CyberSec**: Keeping things secure 🔒 because vulnerabilities are not my vibe 🛡️.
+- **CyberSec & Ethical Hacking**: I break things 🧨 just to make them stronger 🛡️ — because security is no joke!
 - **Android**: Bringing Android apps to life 🌟 with some serious coding mojo 🧑‍💻.
+- **WEB Hosting (cPanel & hPanel)**: Managing websites like a pro 🌐, from domains to databases, all with a few clicks 🖱️.
 - **WEB Apps**: Building the web 🕸️, one quirky, awesome app at a time.
 - **VS Code**: My trusty sidekick for coding marathons 🏃‍♂️💻, with extensions for everything and anything!
 - **Kali & Hacking OS**: My go-to for channeling the inner hacker 🕶️💻, cracking codes, and finding vulnerabilities 🛡️.
