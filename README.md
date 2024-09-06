@@ -30,6 +30,11 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 - **CyberSec**: Keeping things secure 🔒 because vulnerabilities are not my vibe 🛡️.
 - **Android**: Bringing Android apps to life 🌟 with some serious coding mojo 🧑‍💻.
 - **WEB Apps**: Building the web 🕸️, one quirky, awesome app at a time.
+- **VS Code**: My trusty sidekick for coding marathons 🏃‍♂️💻, with extensions for everything and anything!
+- **Kali & Hacking OS**: My go-to for channeling the inner hacker 🕶️💻, cracking codes, and finding vulnerabilities 🛡️.
+- **MS Office (Excel)**: Where I turn data into charts 📊 and unleash the power of formulas like a spreadsheet sorcerer 🔮.
+
+
 
 ## My Superpowers 🦸‍♂️
 
