@@ -46,6 +46,8 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 - **Tech Enthusiast**: If there's a field in tech, I’ve probably dabbled in it 🔍 – or I will soon 🤩.
 - **Problem Solving**: Every problem is just a challenge in disguise 🎯, and I love cracking the code 🧩.
 - **Learning Addict**: Give me a new skill to learn 📚, and I'll dive in headfirst! 🏊‍♂️
+- **Googling & Searching:** Master of the web search 🕵️‍♂️, finding answers faster than you can say “Did you Google it?” 🌐🔍.
+- **Using AI Efficiently:** I prefer smart work over hard work 🤖, leveraging AI to make life easier and work more efficiently 🧠✨.
 
 ## Let's Connect! 🔗
 
