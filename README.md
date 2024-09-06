@@ -37,7 +37,7 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 
 
 
-## My Superpowers 🦸‍♂️
+## My Superpowers 
 
 - **Python Automations**: I automate the boring stuff 🔄 so we can focus on the fun stuff 🎉!
 - **IoT Projects**: Turning regular gadgets into IoT superheroes 🦸‍♂️.
