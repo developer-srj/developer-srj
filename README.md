@@ -32,7 +32,7 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 - **WEB Hosting (cPanel & hPanel)**: Managing websites like a pro 🌐, from domains to databases, all with a few clicks 🖱️.
 - **WEB Apps**: Building the web 🕸️, one quirky, awesome app at a time.
 - **VS Code**: My trusty sidekick for coding marathons 🏃‍♂️💻, with extensions for everything and anything!
-- **Kali & Hacking OS**: My go-to for channeling the inner hacker 🕶️💻, cracking codes, and finding vulnerabilities 🛡️.
+- **Kali & Parrot OS**: My go-to for channeling the inner hacker 🕶️💻, cracking codes, and finding vulnerabilities 🛡️.
 - **MS Office (Excel)**: Where I turn data into charts 📊 and unleash the power of formulas like a spreadsheet sorcerer 🔮.
 
 
@@ -49,8 +49,8 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 
 Feel free to browse my repos, drop me a message 📬, or just hit that star ⭐ button if something catches your eye 👁️. Always happy to chat about tech 💻, problem-solving 🧠, or what cool project we can work on next 🛠️.
 
-- [GitHub](https://github.com/your-username) 🌟
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile) 💼
-- [Twitter](https://twitter.com/your-twitter-handle) 🐦
+- [GitHub](https://github.com/developer-srj) 
+- [Instagram](https://www.instagram.com/developer_srj) 
+
 
 Thanks for stopping by! Remember, the best code is code that makes you smile 😊. **Happy coding!** 💻🎉
