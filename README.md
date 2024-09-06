@@ -19,7 +19,7 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 - **SQL**: Making data dance 💃 to my tune 🎶.
 - **PHP**: Because every server-side problem needs a quick fix 🚀!
 
-### Tools I Can't Live Without
+### Tools I am familiar with
 - **Arduino**: Making LEDs blink 💡, sensors beep 📡, and IoT dreams come true 🤖.
 - **Flutter**: Crafting mobile apps 📱 so smooth they should come with a warning label ⚠️.
 - **Firebase**: Real-time databases 🔥 that just feel like magic 🪄.
