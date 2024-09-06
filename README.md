@@ -19,7 +19,7 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 - **SQL**: Making data dance 💃 to my tune 🎶.
 - **PHP**: Because every server-side problem needs a quick fix 🚀!
 
-### Tools I am familiar with
+### Skills & Tools I am familiar with
 - **Arduino**: Making LEDs blink 💡, sensors beep 📡, and IoT dreams come true 🤖.
 - **Flutter**: Crafting mobile apps 📱 so smooth they should come with a warning label ⚠️.
 - **Firebase**: Real-time databases 🔥 that just feel like magic 🪄.
@@ -34,6 +34,8 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 - **VS Code**: My trusty sidekick for coding marathons 🏃‍♂️💻, with extensions for everything and anything!
 - **Kali & Parrot OS**: My go-to for channeling the inner hacker 🕶️💻, cracking codes, and finding vulnerabilities 🛡️.
 - **MS Office (Excel)**: Where I turn data into charts 📊 and unleash the power of formulas like a spreadsheet sorcerer 🔮.
+- **REST APIs:** Connecting apps and services like a digital bartender 🍹, serving up data requests like they're happy hour specials 🕒.
+- **VS Code Extensions:** From themes to debuggers, extensions are like power-ups 🎮 for my coding adventures, making VS Code even more unstoppable 🦸‍♂️!
 
 
 
