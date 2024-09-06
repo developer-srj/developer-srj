@@ -1,4 +1,4 @@
-# Hey, I'm SRJ! 👋
+# Hey, I'm ***SRJ!*** 👋
 
 Welcome to my GitHub playground, where code meets creativity, and every bug is just a puzzle waiting to be solved! 🧩✨
 
