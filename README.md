@@ -8,7 +8,7 @@ I'm SRJ, your friendly Full Stack Developer 💻. I juggle languages and tools l
 
 ## What I Do
 
-### Full Stack Sorcery 🧙‍♂️
+### Full Stack Sorcery 🪄🎩
 From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack on lock 🔐. If it involves code, consider me obsessed. 
 
 ### Languages I Speak
