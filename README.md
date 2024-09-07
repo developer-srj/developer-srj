@@ -21,10 +21,10 @@ From backend spells 🔮 to frontend enchantments 🎨, I've got the full stack 
 
 ### Skills & Tools I am familiar with
 - **Arduino**: Making LEDs blink 💡, sensors beep 📡, and IoT dreams come true 🤖.
+- **ESP**: Wi-Fi for IoT, because why not make everything a bit smarter 🤓?
 - **Flutter**: Crafting mobile apps 📱 so smooth they should come with a warning label ⚠️.
 - **Firebase**: Real-time databases 🔥 that just feel like magic 🪄.
 - **Git**: Keeping my code organized 📚 and my sanity intact (most of the time) 😅.
-- **ESP**: Wi-Fi for IoT, because why not make everything a bit smarter 🤓?
 - **Linux**: The hacker vibe 💻 without the black hoodie.
 - **MySQL**: The database I can rely on 🗄️, even if my queries sometimes cause a few tears 😢.
 - **CyberSec & Ethical Hacking**: I break things 🧨 just to make them stronger 🛡️ — because security is no joke!
