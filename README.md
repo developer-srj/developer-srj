@@ -1,4 +1,4 @@
-# Yo, I’m ***SRJ!*** 👋  
+# Hey, I’m ***SRJ!*** 👋  
 
 Welcome to my GitHub grind – where ideas click, tech vibes strong, and every bug’s just a feature waiting to pop. I’m all about taking code, hardware, and crazy ideas and mashing them into something legit.  
 
